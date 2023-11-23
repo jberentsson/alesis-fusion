@@ -1,0 +1,5 @@
+firmware/Fusion_Image_v120.zip filter=lfs diff=lfs merge=lfs -text
+firmware/Fusion_Image_v121.zip filter=lfs diff=lfs merge=lfs -text
+firmware/Fusion_Image_v122.zip filter=lfs diff=lfs merge=lfs -text
+firmware/Fusion_Image_v123.zip filter=lfs diff=lfs merge=lfs -text
+firmware/Fusion_Image_v124.zip filter=lfs diff=lfs merge=lfs -text
